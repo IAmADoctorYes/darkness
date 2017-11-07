@@ -1,4 +1,4 @@
-# Contriburing to Darkness
+# Contributing to Darkness
 Please help us **improve existing skins and create new ones**. Pull requests are welcome!
 
 
